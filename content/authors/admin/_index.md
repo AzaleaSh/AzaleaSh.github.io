@@ -1,37 +1,38 @@
 ---
 # Display name
-title: 吳健雄
+title: Azalea
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Azalea
+last_name: Shillington
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🪐
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Aspiring Astrophysisist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
+  - name: Sycamore High School
+    url: https://www.sycamoreschools.org/
+  - name: MachBusters FRC
+    url: https://sites.google.com/view/machbusters/home
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Astronomy and Physics
+  - Youth in STEM Engagement
+  - Leadership
 
 # Education to show in About widget
 education:
