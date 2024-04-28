@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Aspiring Astrophysisist
+role: Aspiring Astrophysicist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Enthusiastic and driven high school student dedicated to leading, learning, advocating and inspiring in STEAM. Adept at leading and collaborating within various extracurricular activities, showcasing strong interpersonal and organizational skills. Eager to contribute a positive and motivated attitude to future academic and professional pursuits.
 {style="text-align: justify;"}
