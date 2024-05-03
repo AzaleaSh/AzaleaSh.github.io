@@ -13,9 +13,6 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: Gallery
-    url: '#Gallery'
-    weight: 40
   - name: Contact
     url: '#contact'
     weight: 60
