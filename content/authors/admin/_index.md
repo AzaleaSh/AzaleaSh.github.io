@@ -32,14 +32,14 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Astronomy and Physics
   - Youth in STEM Engagement
-  - Leadership
+  - Leadership and Management
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: High School Diploma
+      institution: Sycamore High School
+      year: 2025
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
